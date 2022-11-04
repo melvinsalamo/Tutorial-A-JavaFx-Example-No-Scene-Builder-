@@ -1,5 +1,4 @@
 package com.mycompany.fxmlexample;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -9,7 +8,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
- * JavaFX App
+ * JavaFX App; Made by Melvin Salamanca
  */
 public class App extends Application {
      @Override
